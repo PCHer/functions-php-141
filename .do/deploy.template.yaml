@@ -5,9 +5,9 @@ functions:
 - github:
     branch: master
     deploy_on_push: true
-    repo: digitalocean/sample-functions-php-numberstowords
-  name: numbertowords-api
+    repo: PCHer/functions-php-141
+  name: php-141-api
   routes:
   - path: /
   source_dir: /
-name: numberstowords
+name: php-141
