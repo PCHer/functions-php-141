@@ -9,5 +9,5 @@ functions:
   name: php-141-api
   routes:
   - path: /
-  source_dir: /
+  source_dir: /main/n2w
 name: php-141
